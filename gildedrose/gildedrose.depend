@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1761282368 source:c:\users\akiti\onedrive\Área de trabalho\faculdade\6º semestre\engenharia de software\módulo11\gildedrose\itemtypes.c
+	<string.h>
+	"ItemTypes.h"
+
+1761284935 c:\users\akiti\onedrive\Área de trabalho\faculdade\6º semestre\engenharia de software\módulo11\gildedrose\itemtypes.h
+
+1761282399 c:\users\akiti\onedrive\Área de trabalho\faculdade\6º semestre\engenharia de software\módulo11\gildedrose\gildedrose.h
+	"ItemTypes.h"
+
+1761282424 source:c:\users\akiti\onedrive\Área de trabalho\faculdade\6º semestre\engenharia de software\módulo11\gildedrose\gildedrose.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"GildedRose.h"
+
+1761284757 source:c:\users\akiti\onedrive\Área de trabalho\faculdade\6º semestre\engenharia de software\módulo11\gildedrose\gildedrosetexttests.c
+	<stdio.h>
+	"GildedRose.h"
+
